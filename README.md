@@ -7,7 +7,7 @@
 
 - **Diseña un programa para calcular el cociente y residuo de una división mediante restas sucesivas**. Ejemplo: Para dividir 50 entre 11, podemos restar 11 de 50 y se obtiene 39, a este resultado se le puede restar 11 para dar 28. Se puede restar de nuevo y da 17. Una resta más arroja un resultado de 6. La siguiente resta daría un número negativo. En total se hicieron 4 restas (cociente) y el remanente final (residuo) fue 6. ***No deberás usar otras operaciones que no sean sumas y restas en tu solución***.
 
-- Codifica tu solución en el archivo [`dividir_con_restas.py`](/dividir_con_restas.py).
+- Codifica tu solución en el archivo [`dividir_con_restas.p00y`](/dividir_con_restas.py).
    
 - Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas:
   ```
